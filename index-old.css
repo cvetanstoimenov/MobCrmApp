@@ -1,0 +1,31 @@
+li .img-my-style{
+margin-right:20px;
+height: 24px; 
+width: 24px;
+}
+
+li .img-my-style.open{
+background-image: url(add.png);
+}
+li .img-my-style.completed{
+background-image: url(tick.png); 
+}
+li .img-my-style.cancelled{
+background-image: url(block.png); 
+}
+
+li a.li-my-style{
+text-decoration:none;
+color:#000;
+margin-left:40px;
+float:left;
+}
+
+#firstTextTd{
+margin-left:30px;
+}
+
+#secondTextTd{
+margin-left:30px;
+}
+
